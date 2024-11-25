@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xibrahimmasood
 - 👀 I’m interested in Software Development 
-- 🌱 I’m currently learning DSA with JAVA, MERN Stack
+- 🌱 Salesforce Developer
 - 💞️ I’m looking to collaborate on Projects
 - 📫 Reach me on Linkedin- https://www.linkedin.com/in/ibrahim-masood/
 - 
